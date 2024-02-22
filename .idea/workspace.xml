@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4324e513-7d63-4e93-9001-31e79cd61a08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_list_excercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advance_list_program/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Count occurrences of an element in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Maximum of two numbers in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Minimum of two numbers in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Multiply all numbers in the list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Program to find sum and average of List in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Program to print duplicates from a list of integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python Program to Swap Two Elements in a List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to count Even and Odd numbers in a List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to count positive and negative numbers in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to print all even numbers in a range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to print all negative numbers in a range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to print all positive numbers in a range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to print negative numbers in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to print odd numbers in a range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python program to print positive numbers in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Python | Cloning or Copying a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Remove empty tuples from a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Remove multiple elements from a list in Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/Sum of number digits in List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/check element exist in list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/clear list using different methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/find length of list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/list element interchange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/program to find largest number in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/program to find second largest number in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/program to find smallest number in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/program to print even numbers in a list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_list_program/reverse list using different methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program_on_list_lists/Remove empty List from List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/program_on_list_lists/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bcOn0147IgLtgtDQBgZnZOfy14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Count occurrences of an element in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Maximum of two numbers in Python.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Multiply all numbers in the list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Program to find sum and average of List in Python.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Program to print duplicates from a list of integers.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python Program to Swap Two Elements in a List.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to count Even and Odd numbers in a List.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to count positive and negative numbers in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to print all even numbers in a range.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to print all negative numbers in a range.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to print all positive numbers in a range.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to print negative numbers in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to print odd numbers in a range.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python program to print positive numbers in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Python | Cloning or Copying a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Remove empty List from List.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Remove empty tuples from a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Remove multiple elements from a list in Python.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Sum of number digits in List.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.check element exist in list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.clear list using different methods.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.find length of list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.list element interchange.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.program to find largest number in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.program to find second largest number in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.program to find smallest number in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.program to print even numbers in a list.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.reverse list using different methods.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dipika/PycharmProjects/python_Excercise&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic_list_program" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python_list_excercise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="python_list_excercise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="python_list_excercise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="python_list_excercise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="python_list_excercise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="python_list_excercise" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4324e513-7d63-4e93-9001-31e79cd61a08" name="Changes" comment="" />
+      <created>1706511063728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706511063728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/list element interchange.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/list element interchange.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/reverse list using different methods.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/check element exist in list.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/program to find largest number in a list.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/program to find largest number in a list.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/program to find smallest number in a list.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/Python | Cloning or Copying a list.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/Python | Cloning or Copying a list.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/Python program to print positive numbers in a list.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_list_program/Python program to count positive and negative numbers in a list.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
